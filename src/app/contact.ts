@@ -18,7 +18,7 @@ export const contacts: userContact[] = [
   {
     name: 'KurtGoedel',
     email: 'Yolanda.Abernathy@hotmail.com',
-    phoneNumber: '(038) 030-9641 x7086',
+    phoneNumber : '(038) 030-9641 x7086',
     image: 'http://lorempixel.com/640/480/nightlife'
   },
 
